@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>OpenMagazine</name>
+        <version>//autogen//</version>
+        <copyright>//autogen//</copyright>
+        <license>//autogen//</license>
+        <info_url>http://ez.no/market/openmagazine</info_url>
+    </metadata>
+
+    <dependencies>
+        <requires>
+            <extension name="ezwebin" />
+            <extension name="ezfind" />
+            <extension name="ezwt" />
+            <extension name="ezmultiupload" />
+            <extension name="ezjscore" />
+        </requires>
+        <extends>
+            <extension name="ezwt" />
+            <extension name="ezwebin" />
+        </extends>
+    </dependencies>
+</software>

@@ -1,0 +1,1 @@
+{$author.name|washxml} - {$author.email|washxml}

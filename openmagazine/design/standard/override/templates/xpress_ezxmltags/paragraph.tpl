@@ -1,0 +1,1 @@
+{if eq( $content|trim(), '' )}&nbsp;{else}{$content}{/if}

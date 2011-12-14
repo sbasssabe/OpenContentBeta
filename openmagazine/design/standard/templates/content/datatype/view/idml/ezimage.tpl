@@ -1,0 +1,1 @@
+<image href="file://{$attribute.content.original.filename}" />
