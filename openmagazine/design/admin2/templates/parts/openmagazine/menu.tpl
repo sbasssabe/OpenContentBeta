@@ -1,1 +1,0 @@
-{include uri='design:parts/content/menu.tpl'}

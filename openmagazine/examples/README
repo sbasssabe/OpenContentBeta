@@ -1,2 +1,0 @@
-== Test sample ==
- * Before importing the IDML file into your eZ publish installation, place all the sample images in the folder specified in idml.ini ImageImport/ImportImagePath

@@ -1,1 +1,0 @@
-<i{if ne($classification|trim,'')} class="{$classification|wash}"{/if}>{$content|washxml}</i>

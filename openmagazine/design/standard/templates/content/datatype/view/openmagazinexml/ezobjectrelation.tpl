@@ -1,1 +1,0 @@
-{if $attribute.has_content}{$attribute.content.id}{/if}

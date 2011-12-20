@@ -1,1 +1,0 @@
-{$attribute.content.keyword_string|washxml}

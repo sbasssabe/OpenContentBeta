@@ -1,1 +1,0 @@
-http:://{ezini('SiteSettings','SiteUrl')|washxml}{$attribute.content.filepath|ezroot(no)}
